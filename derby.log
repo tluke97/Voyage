@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Dec 23 21:50:10 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0167-de55-975f-00000da3bd98 
+on database directory /Users/TannerLuke/Documents/Documents - MacBook Pro/App Builds/NetBeansProjects/VoyageFinancial/voyagefinancial with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/Users/TannerLuke/Documents/Documents%20-%20MacBook%20Pro/App%20Builds/NetBeansProjects/VoyageFinancial/src/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/Users/TannerLuke/Documents/Documents - MacBook Pro/App Builds/NetBeansProjects/VoyageFinancial
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
